@@ -60,8 +60,8 @@
 
 | Year | Institution | Program / Highlights |
 |------|-------------|----------------------|
-| 2020–2024 | **Southern Leyte State University - San Juan Campus** | BS Information Technology – Major in Programming (Graduate) |
-| 2018–2020 | **Sta. Paz National High School - Senior High School** | Computer System Servicing<br>• Photojournalism Contestant – GSPC (Biglihi Category), 6th & 7th Place<br>• Aesthetic IT Technician (Installation, Repair & Maintenance) |
+| 2020–2026 | **Southern Leyte State University - San Juan Campus** | BS Information Technology – Major in Programming (Graduate) |
+| 2018–2020 | **Sta. Paz National High School - Senior High School** | Computer System Servicing<br>• Photojournalism Contestant – GSPC (Biglihi Category), 6th & 7th Place<br>• Student IT Technician (Installation, Repair & Maintenance) |
 | 2014–2018 | **Sta. Paz National High School - Junior High School** | |
 | 2013–2014 | **San Francisco Central School** | |
 
