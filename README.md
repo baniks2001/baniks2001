@@ -4,7 +4,7 @@
 [![Phone](https://img.shields.io/badge/Phone-0995--632--2304-green?logo=telegram)](tel:09956322304)
 [![Facebook](https://img.shields.io/badge/Facebook-Servando%20S.%20Tio%20III-blue?logo=facebook)](https://facebook.com/servando.tio)
 
-🎓 **BS Information Technology – Major in Programming**  
+🎓 **BS Information Technology – Major in Programming CLASS OF 2026**  
 *Southern Leyte State University - San Juan Campus*  
 💻 Diligent, quick-learning IT professional with hands-on experience in computer repair, system maintenance, graphic design, video editing, and administrative support.
 
